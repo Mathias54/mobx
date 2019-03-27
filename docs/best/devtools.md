@@ -18,7 +18,7 @@ MobX ships with DevTools that can be used to track the rendering behavior and da
 
 Install:
 
-`npm install mobx-react-devtools`
+`npm install mobx-react-devtools --save`
 
 To enable devtools, import and render the devtools somewhere in your codebase.
 
